@@ -1,0 +1,16 @@
+.header p{
+    display: block;
+    font-size: 30px;
+    margin-left: 20%;
+    margin-bottom: 15%;
+    height: 10px;
+}
+
+.image{
+    margin-top: 0;
+    float: right;
+}
+
+body{
+    background-color: beige;
+}
